@@ -61,7 +61,7 @@
                     "updatedAt": "2021-11-24T04:04:09.702Z"
                 }
             ],
-            "classTitle": "Vehicle",
+            "classTitle": "Car",
             "points": {
                 "exterior": [
                     [
@@ -104,7 +104,7 @@
                     "updatedAt": "2021-11-24T04:04:09.702Z"
                 }
             ],
-            "classTitle": "License Plate",
+            "classTitle": "Number",
             "points": {
                 "exterior": [
                     [
@@ -174,7 +174,7 @@
                     "updatedAt": "2021-11-24T04:04:09.702Z"
                 }
             ],
-            "classTitle": "Vehicle",
+            "classTitle": "Car",
             "points": {
                 "exterior": [
                     [
